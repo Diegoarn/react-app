@@ -1,0 +1,128 @@
+.members {
+    margin:6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.character {
+    margin: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    padding-top: 60px;
+    font-family: Helvetica;
+    display: flex;
+    color: rgb(39, 39, 39);
+    justify-content: center;
+}
+ h2{
+    margin-left: 1%;
+ }
+.container {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+
+.target-container {
+    display: flex;
+   
+    gap: 8px;
+    padding: 6px;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    border-radius: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+}
+
+.character-container {
+    display: flex;
+    gap: 8px;
+    padding: 6px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 3px;
+    border: 1px solid rgb(100, 100, 100);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    margin-left: -1%;
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    gap: 35%;
+    border-radius: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 380px;
+    margin-bottom: 16px;
+    margin-left: 3%;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    gap: 8px;
+}
+
+input {
+    font-size: 18px;
+    padding: 6px;
+}
+
+.button {
+    color: rgb(128, 128, 128);
+    font-size: 16px;
+    padding: 6px;
+    cursor: pointer;
+    margin: 20px;
+} 
+
+
+.button-back {
+    color: rgb(128, 128, 128);
+    font-size: 16px;
+    padding: 6px;
+    
+    cursor: pointer;
+    margin-top: 2%;
+    margin-left: 6%;
+    margin-bottom: 6%;
+} 
+
+.selector {
+    margin-bottom: 40px;
+    margin-left: 1%;
+}
+.member-list{
+    padding: 10px;
+
+}
+Button {
+    cursor: pointer;
+}
+
+img {
+    width: 6rem;
+    border-radius: 8px;
+}
+
+.member-table {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 120px;
+}
+
+p{
+    opacity: 40%;
+    margin-top: -6%;
+}
+
+
